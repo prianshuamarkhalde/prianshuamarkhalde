@@ -51,8 +51,8 @@ Java-based chat server with features like encryption, logging, and GUI.
 
 ## 📫 Contact Me
 
-- 📧 Email: [prianshuamarkhalde@gmail.com](mailto:prianshuamarkhalde@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/prianshuamarkhalde](https://linkedin.com/in/prianshuamarkhalde)  
+- 📧 Email: [prianshuamarkhalde@gmail.com](mailto:prianshuamarkhalde04@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/prianshuamarkhalde](https://linkedin.com/in/prianshukhalde)  
 - 🌐 Portfolio: *Coming soon!*
 
 ---
