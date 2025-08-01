@@ -19,8 +19,8 @@ I am an enthusiastic Computer Science student with a strong interest in developi
 `Java` `Python` `C` `C++` `JavaScript` `HTML` `CSS` `SQL`
 
 **Frameworks & Tools:**  
-`React` `Node.js` `Pandas` `NumPy` `OpenCV` `Firebase`  
-`Git & GitHub` `Arduino` `Unity` `Android Studio` `Salesforce` `VS Code`
+`Pandas` `NumPy` `OpenCV` 
+`Git & GitHub` `Arduino` `Unity` `Android Studio` `VS Code`
 
 **Special Skills:**  
 - AR/VR Development  
@@ -51,7 +51,7 @@ Analyzed real-world datasets using Pandas and Matplotlib with strong focus on gr
 
 - 📧 Email: [prianshuamarkhalde04@gmail.com](mailto:prianshuamarkhalde04@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/prianshukhalde](https://linkedin.com/in/prianshukhalde)  
-- 🌐 Portfolio: *Coming soon!*
+- 🌐 Portfolio: [Prianshu Khalde](https://prianshuamarkhalde.github.io/PORTFOLIO/)
 
 ---
 
