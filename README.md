@@ -38,12 +38,10 @@ A robot that detects fire and alerts via SMS and call. Built with Arduino Uno, s
 
 ### 🚇 3D Metro Navigation App
 An Android AR application to help users navigate metro stations using Unity and crowd prediction AI models.
+(Work in Progress)
 
 ### 📊 Data Analysis with Python
 Analyzed real-world datasets using Pandas and Matplotlib with strong focus on grouping and visualization.
-
-### 💬 Multithreaded Java Chat Server
-Java-based chat server with features like encryption, logging, and GUI.
 
 > [Explore more projects on my GitHub →](https://github.com/prianshuamarkhalde?tab=repositories)
 
@@ -65,4 +63,3 @@ Java-based chat server with features like encryption, logging, and GUI.
 ---
 
 ### Thanks for visiting! 🙏
-
