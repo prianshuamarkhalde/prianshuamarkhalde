@@ -51,7 +51,7 @@ Analyzed real-world datasets using Pandas and Matplotlib with strong focus on gr
 
 - 📧 Email: [prianshuamarkhalde04@gmail.com](mailto:prianshuamarkhalde04@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/prianshukhalde](https://linkedin.com/in/prianshukhalde)  
-- 🌐 Portfolio: [Prianshu Khalde](https://prianshuamarkhalde.github.io/PORTFOLIO/)
+- 🌐 Portfolio: [Prianshu Khalde](https://cheerful-smakager-8ae248.netlify.app/)
 
 ---
 
